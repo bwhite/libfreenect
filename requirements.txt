@@ -1,0 +1,2 @@
+PyOpenGL>=3.0
+numpy>=1.2.1
